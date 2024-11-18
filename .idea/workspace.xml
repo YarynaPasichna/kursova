@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9218f5ec-61b1-4609-b915-f85c28eb6c3e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -11,6 +12,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/kursova-server.iml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="9218f5ec-61b1-4609-b915-f85c28eb6c3e" name="Changes" comment="1" />
+>>>>>>> bd7478a (2)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "master",
+=======
+    "git-widget-placeholder": "main",
+>>>>>>> bd7478a (2)
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,6 +59,10 @@
     "nodejs_package_manager_path": "npm",
     "npm.prepare.executor": "Run",
     "npm.start:dev.executor": "Run",
+<<<<<<< HEAD
+=======
+    "npm.test.executor": "Run",
+>>>>>>> bd7478a (2)
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "D:\\1 курсова\\kursova-server\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -103,11 +115,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731875983002</updated>
+<<<<<<< HEAD
       <workItem from="1731875984201" duration="3251000" />
     </task>
+=======
+      <workItem from="1731875984201" duration="3587000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1731889862826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731889862826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1731890026648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731890026648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+>>>>>>> bd7478a (2)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+>>>>>>> bd7478a (2)
 </project>
